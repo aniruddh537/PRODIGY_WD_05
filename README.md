@@ -1,5 +1,5 @@
 # PRODIGY_WD_05
-## Weather Web Application - the.Weather
+## Weather Web Application - the.Weather 
 
 
 <p> Task - To build a <strong>Weather forecasting Application Using an API.</strong></p>
